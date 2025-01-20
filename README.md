@@ -10,7 +10,7 @@ I created this new repository to hold my school assignments and projects in the 
 # About Me
 
 ## My Interests
-	- Soccer
+	#### - Soccer
  		- My favorite team is FC Barcelona
 	- Building gaming desktops
 	- Gardening
