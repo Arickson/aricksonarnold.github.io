@@ -11,10 +11,10 @@ I created this new repository to hold my school assignments and projects in the 
 
 ## My Interests
 
-	- Soccer
-	- Building gaming desktops
-	- Gardening
-	- Learning new software
+	* Soccer
+	* Building gaming desktops
+	* Gardening
+	* Learning new software
 
 ## Websites I recommend
 
