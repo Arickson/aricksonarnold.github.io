@@ -9,6 +9,12 @@ I created this new repository to hold my school assignments and projects in the 
 
 # About Me  
 ## My Interests
+- Soccer
+  - My favorite team is FC Barcelona
+- Building gaming computers
+- Gardening
+- Working on Certificates
+  - I am currently working on the CompTIA A+ and the CCNA
 ## Websites I recommend
 - [Wake Tech](https://waketech.edu) – I can stay updated with everything new at my school.
 - [Blackboard](https://blackboard.waketech.edu) – I use this site to complete my assignments and exams on time.
